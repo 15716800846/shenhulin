@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+img{
+    vertical-align: middle;
+}
+.gWidth{
+    width: 1005px;
+    margin:0 auto;
+}

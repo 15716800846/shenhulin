@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1830308",
+      "name": "方块",
+      "font_class": "fangkuai",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}
