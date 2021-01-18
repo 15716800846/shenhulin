@@ -1,0 +1,53 @@
+header a{
+	display: block;
+	width: 200px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+header img{
+	width: 100%;
+}
+main{
+	height: auto;
+/*	background: red;*/
+}
+main dl{
+	display: block;
+	font-size: 0;
+}
+main dl dt{
+	font-size: 30px;
+	font-weight: bold;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	margin-bottom: 0;
+}
+main dl dd{
+	font-size: 20px;
+	text-align: center;
+	width: 176px;
+	height: 50px;
+	line-height: 50px;
+	display: inline-block;
+	border: 2px solid #ccc;
+	border-radius: 5px;
+	margin-bottom: 15px;
+	margin-right: 24px;
+}
+main dl dd:nth-of-type(6n){
+	margin-right: 0;
+}
+footer{
+	margin-top: 20px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+#BackTop{
+	position:fixed;
+	bottom:5%;
+	right:5%;
+	display:none;
+	cursor:pointer;
+}
