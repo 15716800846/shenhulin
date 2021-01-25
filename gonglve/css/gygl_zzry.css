@@ -1,0 +1,118 @@
+/* 关于攻略 */
+.gygl{
+    height: 3.461538rem;
+    position: relative;
+    top: -0.807692rem;
+    z-index: 2;
+}
+.gygl .big_box{
+    width: 3.461538rem;
+    height: 3.461538rem;
+    background: #1259E6;
+    text-align: center;
+    color: #fff;
+    padding-top: 0.35rem;
+    box-sizing: border-box;
+}
+.gygl .big_box span,.gygl .big_box em,.gygl .big_box strong{
+    font-weight: normal;
+    font-style: normal;
+}
+.gygl .big_box em{
+    font-size: 0.923077rem;
+}
+.gygl .big_box strong{
+    font-size: 0.692308rem;
+}
+.gygl .you{
+    position: absolute;
+    left: 4.230769rem;
+    top: 1.5rem;
+}
+.gygl .you>span{
+    font-size: 0.615385rem;
+}
+
+
+
+/* 选项卡 */
+.xvanxiangka{
+    height: 1.230769rem;
+    border-bottom: 2px solid #EAEAEA;
+}
+.xvanxiangka ul{
+    height: 1.15rem;
+}
+.xvanxiangka ul li{
+    height: 100%;
+    color: #000;
+    float: left;
+    font-size: 0.615385rem;
+    margin-right: 1.269231rem;
+}
+.xvanxiangka ul li a{
+    color: #1259E5;
+}
+.xvanxiangka ul li:hover{
+    border-bottom: 4px solid #1259E5;
+}
+.xvanxiangka ul .active{
+    border-bottom: 4px solid #1259E5;
+}
+
+
+
+/* 主体 */
+main{
+    height: 72rem;
+}
+main ul{
+    width: 13.961538rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+main ul li{
+    width: 100%;
+    height: 11.307692rem;
+    border: 1px solid #E3E3E3;
+    box-sizing: border-box;
+    margin-top: 0.77rem;
+}
+main ul li .litop{
+    width: 100%;
+    height: 8.653846rem;
+    border-bottom: 1px solid #E3E3E3;
+}
+main ul li .litop img{
+    width: 100%;
+}
+main ul li p{
+    font-size: 0.615385rem;
+    margin-left: 0.5rem;
+    margin-top: 0.35rem;
+}
+main ul li span{
+    font-size: 0.615385rem;
+    color: #9E9E9E;
+    margin-left: 0.5rem;
+}
+
+
+
+/* 翻页 */
+.fanye{
+    height: 3.3rem;
+    padding-top: 0.4rem;
+    box-sizing: border-box;
+    text-align: center;
+}
+.fanye a{
+    display: inline-block;
+    font-size: 0.538462rem;
+    text-align: center;
+    width: 3.461538rem;
+    height: 1.346154rem;
+    line-height: 1.346154rem;
+    color: #fff;
+    background: #1159E5;
+}

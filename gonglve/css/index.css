@@ -1,0 +1,378 @@
+/* 景观亮化 */
+.jingguan{
+    width: 100%;
+    height: 22.384615rem;
+    padding-top: 0.769231rem;
+    box-sizing: border-box;
+}
+.jg_big{
+    height: 18.269231rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .4);
+    padding: 0.576923rem 0.576923rem 0 0.576923rem;
+    box-sizing: border-box;
+    position: relative;
+}
+.jg_top{
+    text-align: center;
+}
+.jg_top h3{
+    margin-top: 0.4rem;
+    font-weight: normal;
+    font-size: 0.692308rem;
+}
+.jg_top span{
+    margin-top: -0.3rem;
+    color: #999999;
+    font-size: 0.538462rem;
+}
+.jg_txt{
+    margin-top: 0.45rem;
+}
+.jg_txt h4{
+    font-size: 0.769231rem;
+    color: #075FE5;
+    font-weight: normal;
+    margin-bottom: 0.2rem;
+}
+.jg_txt p{
+    font-size: 0.538462rem;
+    line-height: 0.846154rem;
+}
+.jg_btm{
+    margin-top: 0.8rem;
+}
+.jg_btm .bluetxt{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.615385rem;
+    color: #fff;
+    text-align: center;
+    width: 11.538462rem;
+    height: 1.923077rem;
+    background-image: linear-gradient(#1258E6,#2C84E6);
+    padding-top: 0.384615rem;
+    box-sizing: border-box;
+    z-index: 3;
+}
+.jg_btm span{
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%,-50%);
+    opacity: .7;
+}
+.jg_img{
+    width: 13.846154rem;
+    height: 4.653846rem;
+    display: block;
+    position: relative;
+    top: 1.153846rem;
+}
+.jg_img img{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.jg_btn{
+    width: 100%;
+    height: 4.11rem;
+    text-align: center;
+    padding-top: 0.961538rem;
+    box-sizing: border-box;
+}
+.jg_btn .yvan{
+    width: 1.230769rem;
+    height: 1.230769rem;
+    line-height: 1.230769rem;
+    border: 2px solid #0760E5;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    margin: 0 4px 0 4px;
+}
+.jg_btn .yvan span{
+    color: #0760E5;
+}
+
+
+
+/* 走进河北攻略 */
+.zhoujin{
+    height: 12rem;
+    background: url(../images/1-1.png) no-repeat center center;
+    text-align: center;
+}
+.zhoujin h3{
+    font-size: 0.846154rem;
+    font-weight: normal;
+    color: #fff;
+    padding-top: 0.7rem;
+    box-sizing: border-box;
+}
+.zhoujin span{
+    font-size: 0.5rem;
+    color: #fff;
+    line-height: 1.7rem;
+}
+.zhoujin p{
+    font-size: 0.615385rem;
+    line-height: 26px;
+    color: #fff;
+    text-align: left;
+}
+.zj_btn{
+    display: inline-block;
+    width: 7.615385rem;
+    height: 1.576923rem;
+    background-image: linear-gradient(#1F5CD8,#2978DB);
+    border-radius: 0.792308rem;
+    font-size: 0.538462rem;
+    color: #fff;
+    margin-top: 0.5rem;
+}
+
+
+
+/* 攻略工厂展示 / 攻略荣誉展示 */
+.zhanshi{
+    height: 27rem;
+    background: #F3F3F3;
+    padding-top:1.153846rem;
+    box-sizing: border-box;
+    position: relative;
+    text-align: center;
+}
+.zhanshi1{
+    width: 100%;
+    position: relative;
+}
+.zhanshi h3{
+    font-weight: normal;
+    font-size: 0.692308rem;
+    background: url(../images/hr.png);
+    margin-bottom: -0.4rem;
+}
+.zhanshi h3 a{
+    color: #000;
+}
+.zhanshi h3 a:hover{
+    color: #075FE5;
+}
+.zhanshi h3 .showa{
+    color: #075FE5;
+}
+.zhanshi1 figure{
+    width: 100%;
+}
+.zhanshi1 figure img{
+    width: 100%;
+}
+.zhanshi1 figure figcaption{
+    font-size: 0.615385rem;
+    margin-top: 0.4rem;
+}
+
+
+
+/* 攻略新闻资讯 */
+.zixun{
+    height: 52.269231rem;
+    padding-top: 1rem;
+    box-sizing: border-box;
+}
+.zixun h2{
+    font-size: 0.846154rem;
+    font-weight: normal;
+    text-align: center;
+}
+.zixun p{
+    color: #999999;
+    font-size: 0.538462rem;
+    text-align: center;
+    margin-top: 0.576923rem;
+    margin-bottom: 0.923077rem;
+}
+/* 选项卡 */
+.box{
+    width: 100%;
+    height: 47.384615rem;
+}
+.box ul{
+    height: 50px;
+    display: flex;
+}
+.box ul li{
+    font-size: 0.615385rem;
+    width: 4.615385rem;
+    height: 1.538462rem;
+    line-height: 1.538462rem;
+    background: #F3F3F3;
+    color: #000;
+    text-align: center;
+    flex-grow: 1;
+    margin: 0 0.307692rem 0 0.307692rem;
+}
+.box ul .active{
+    background:#1966E6;
+    color: #fff;
+}
+.box ol{
+    width: 100%;
+}
+.box ol li{
+    width: 100%;
+    display: none;
+}
+.box ol .show{
+    display: block;
+}
+.box ol li figure{
+    width: 100%;
+}
+.box ol li figure img{
+    width: 100%;
+}
+.box ol li figure figcaption{
+    font-size: 0.692308rem;
+    margin-top: 0.4rem;
+}
+.box ol li figure .hhr{
+    display: block;
+    width: 100%;
+    height: 1px;
+    background: #E3E3E3;
+    margin-top: 0.384615rem;
+}
+.box ol li figure p{
+    color: #6F6F6F;
+    font-size: 0.538462rem;
+    text-align: left;
+    margin-top: 0.384615rem;
+    margin-bottom: -0.3rem;
+}
+.box ol li figure span{
+    color: #6F6F6F;
+    font-size: 14.000012px;
+}
+
+
+
+/* 蓝色部分 */
+.lanse{
+    height: 8.153846rem;
+    background-image: linear-gradient(#1258E6,#297FE6);
+}
+.lanse ul{
+    width: 100%;
+    height: 100%;
+}
+.lanse ul li{
+    width: 50%;
+    height: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+}
+.lanse ul li strong{
+    font-size: 1.461538rem;
+    color: #fff;
+}
+.lanse ul li span{
+    color: #fff;
+}
+.lanse ul li p{
+    color: #fff;
+    font-size: 0.538462rem;
+}
+
+
+
+/* 留言 */
+.liuyan{
+    height: 35rem;
+}
+.ly_top{
+    height: 2.692308rem;
+    border-bottom: 1px solid #D1D1D1;
+    padding-top: 0.9rem;
+    box-sizing: border-box;
+    margin-bottom: 0.9rem;
+}
+.ly_top h3{
+    font-weight: normal;
+    font-size: 0.846154rem;
+    float: left;
+}
+.ly_top span{
+    color: #999999;
+    font-size: 0.538462rem;
+    float: right;
+    transform: translateY(-0.09rem);
+}
+.ly_top span i{
+    display: inline-block;
+    color: #075FE5;
+    font-size: 0.846154rem;
+    font-style: normal;
+    transform: translateY(0.12rem);
+}
+.ly_one{
+    height: 145px;
+    box-sizing: border-box;
+}
+.ly_one span{
+    color: #0760E5;
+    vertical-align: middle;
+}
+.ly_one h4{
+    display: inline;
+    font-size: 0.615385rem;
+    font-weight: bold;
+    vertical-align: middle;
+    margin-left: 0.384615rem;
+}
+.ly_one p{
+    margin-left: 1.115385rem;
+    color: #999999;
+    font-size: 0.538462rem;
+    margin-top: 0.48rem;
+}
+form{
+    height: 15rem;
+}
+form input{
+    width: 15rem;
+    height: 1.538462rem;
+    box-sizing: border-box;
+    margin-top: 0.6rem;
+    border-radius: 3px;
+    border: none;
+    background: #F0F0F3;
+    outline:none;
+    text-indent: 0.192308rem;
+}
+form .yanzm{
+    width: 11.538462rem;
+}
+form img{
+    vertical-align: bottom;
+    transform: translateX(0.25rem);
+}
+form textarea{
+    width: 15rem;
+    height: 2.5rem;
+    margin-top: 0.6rem;
+    border-radius: 3px;
+    border: none;
+    background: #F0F0F3;
+    outline:none;
+    text-indent: 0.192308rem;
+}
+form .tijiao{
+    color: #fff;
+    background-image: linear-gradient(#1258E6,#297FE6);
+    text-indent: 0;
+}

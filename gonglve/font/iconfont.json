@@ -1,0 +1,163 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1391414",
+      "name": "曲线图",
+      "font_class": "quxiantu",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1494638",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "2182416",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "3042841",
+      "name": "面积",
+      "font_class": "mianji",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "3050494",
+      "name": "选项",
+      "font_class": "option",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "4165260",
+      "name": "安全",
+      "font_class": "anquan",
+      "unicode": "ea00",
+      "unicode_decimal": 59904
+    },
+    {
+      "icon_id": "4901906",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "f0199",
+      "unicode_decimal": 983449
+    },
+    {
+      "icon_id": "5928875",
+      "name": "三角下标（正方形）",
+      "font_class": "icon-up-copy-copy",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "6764135",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "7148955",
+      "name": "右箭头",
+      "font_class": "youjiantou1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "8360026",
+      "name": "双箭头-右",
+      "font_class": "double-arrow-left",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    },
+    {
+      "icon_id": "8466464",
+      "name": "统计图",
+      "font_class": "tongjitu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "12054616",
+      "name": "向上",
+      "font_class": "up2",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "12154988",
+      "name": "二维码",
+      "font_class": "qrcode1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12550373",
+      "name": "飞机",
+      "font_class": "feiji",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "13008207",
+      "name": "人物",
+      "font_class": "renwu",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "13577304",
+      "name": "联系电话",
+      "font_class": "lianxidianhua",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "13583734",
+      "name": "回收 (1)",
+      "font_class": "huishou",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "14330123",
+      "name": "方案",
+      "font_class": "fangan1",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "15682560",
+      "name": "右箭头",
+      "font_class": "youjiantou2",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "17521049",
+      "name": "直线",
+      "font_class": "zhixian",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "18303520",
+      "name": "双箭头-右",
+      "font_class": "double-arrow-right",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    }
+  ]
+}

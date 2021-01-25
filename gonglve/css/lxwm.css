@@ -1,0 +1,134 @@
+/* 联系我们 */
+.gygl{
+    height: 3.461538rem;
+    position: relative;
+    top: -0.807692rem;
+    z-index: 2;
+}
+.gygl .big_box{
+    width: 3.461538rem;
+    height: 3.461538rem;
+    background: #1259E6;
+    text-align: center;
+    color: #fff;
+    padding-top: 0.35rem;
+    box-sizing: border-box;
+}
+.gygl .big_box span,.gygl .big_box em,.gygl .big_box strong{
+    font-weight: normal;
+    font-style: normal;
+}
+.gygl .big_box em{
+    font-size: 0.923077rem;
+}
+.gygl .big_box strong{
+    font-size: 0.692308rem;
+}
+.gygl .you{
+    position: absolute;
+    left: 4.230769rem;
+    top: 1.5rem;
+}
+.gygl .you>span{
+    font-size: 0.615385rem;
+}
+
+
+
+/* 联系 */
+.lianxi{
+    height: 6.5rem;
+}
+.lianxi h4{
+    font-size: 0.692308rem;
+    font-weight: normal;
+    margin: 0.384615rem 0 0.384615rem 0;
+}
+.lianxi p{
+    font-size: 0.615385rem;
+    color: #918F8F;
+    line-height: 1rem;
+}
+
+
+
+/* 地图 */
+.map{
+    height: 16.615385rem;
+}
+.map img{
+    width: 100%;
+}
+.map .map_div{
+    margin-top: 0.538462rem;
+    width: 100%;
+    height: 4.423077rem;
+    padding-top: 0.269231rem;
+    box-sizing: border-box;
+    position: relative;
+}
+.map .map_div .map_txt{
+    width: 100%;
+    height: 4.153846rem;
+    background-color: #1159E5;
+    border-radius: 0.192308rem;
+    padding-left: 0.461538rem;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+}
+.map .map_div .map_txt h4{
+    font-size: 0.769231rem;
+    color: #fff;
+    font-weight: normal;
+    margin-bottom: 0.3rem;
+}
+.map .map_div .map_txt p{
+    font-size: 0.615385rem;
+    color: #FFFFFF;
+    opacity: .5;
+    font-weight: normal;
+}
+.map .map_div .bianxing{
+    width: 1.846154rem;
+    height: 1.846154rem;
+    background-color: #1159E5;
+    border-radius: 0.230769rem;
+    position: absolute;
+    left: 50%;
+    top: -0.001rem;
+    margin-left: -0.923077rem;
+    transform:rotate(45deg);
+    -ms-transform:rotate(45deg);
+    -moz-transform:rotate(45deg);
+    -webkit-transform:rotate(45deg);
+    -o-transform:rotate(45deg); 
+}
+
+
+
+/* 二维码 */
+.erwm{
+    height: 9.038462rem;
+}
+.erwm ul{
+    width: 100%;
+}
+.erwm ul li .ewm{
+    width: 6.538462rem;
+    height: 6.538462rem;
+    line-height: 6.3rem;
+    border: 1px solid #E1DFDF;
+    border-radius: 2px;
+    text-align: center;
+}
+.erwm ul li:nth-child(1){
+    float: left;
+}
+.erwm ul li:nth-child(2){
+    float: right;
+}
+.erwm ul li p{
+    font-size: 0.615385rem;
+    text-align: center;
+    margin-top: 0.35rem;
+}

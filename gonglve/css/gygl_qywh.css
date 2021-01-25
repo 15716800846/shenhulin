@@ -1,0 +1,152 @@
+/* 关于攻略 */
+.gygl{
+    height: 3.461538rem;
+    position: relative;
+    top: -0.807692rem;
+    z-index: 2;
+}
+.gygl .big_box{
+    width: 3.461538rem;
+    height: 3.461538rem;
+    background: #1259E6;
+    text-align: center;
+    color: #fff;
+    padding-top: 0.35rem;
+    box-sizing: border-box;
+}
+.gygl .big_box span,.gygl .big_box em,.gygl .big_box strong{
+    font-weight: normal;
+    font-style: normal;
+}
+.gygl .big_box em{
+    font-size: 0.923077rem;
+}
+.gygl .big_box strong{
+    font-size: 0.692308rem;
+}
+.gygl .you{
+    position: absolute;
+    left: 4.230769rem;
+    top: 1.5rem;
+}
+.gygl .you>span{
+    font-size: 0.615385rem;
+}
+
+
+
+/* 选项卡 */
+.xvanxiangka{
+    height: 1.230769rem;
+    border-bottom: 2px solid #EAEAEA;
+}
+.xvanxiangka ul{
+    height: 1.15rem;
+}
+.xvanxiangka ul li{
+    height: 100%;
+    color: #000;
+    float: left;
+    font-size: 0.615385rem;
+    margin-right: 1.269231rem;
+}
+.xvanxiangka ul li a{
+    color: #1259E5;
+}
+.xvanxiangka ul li:hover{
+    border-bottom: 4px solid #1259E5;
+}
+.xvanxiangka ul .active{
+    border-bottom: 4px solid #1259E5;
+}
+
+
+
+/* 标题段落 */
+.txt_1{
+    height: 13.076923rem;
+    margin-top: 0.923077rem;
+}
+.txt_1 h3{
+    text-align: center;
+    font-size: 0.769231rem;
+}
+.txt_1 h6{
+    text-align: center;
+    color: #CAC8C8;
+    font-size: 0.538462rem;
+    font-weight: normal;
+}
+.txt_1 span{
+    display: block;
+    text-align: center;
+    color: #1B6BE5;
+}
+.txt_1 p{
+    font-size: 0.615385rem;
+    line-height: 26px;
+    text-indent: 1.25rem;
+}
+
+
+
+/* 圆图片 */
+.yvan{
+    height: 17.307692rem;
+}
+.yvan ul{
+    height: 11.538462rem;
+    position: relative;
+    text-align: center;
+}
+.yvan ul li{
+    width: 3.769231rem;
+    height: 5.615385rem;
+    display: inline-block;
+    margin: 0 0.5rem 0 0.5rem;
+}
+.yvan ul li>.five{
+    width: 3.769231rem;
+    height: 3.769231rem;
+    border: 1px solid #1D77DC;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+}
+.yvan ul li>.five>.one{
+    width: 3.384615rem;
+    height: 3.384615rem;
+    border-radius: 50%;
+    background: #1159E5;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.yvan ul li>.five>.one span{
+    color: #fff;
+    line-height: 3.384615rem;
+    font-size: 1.346154rem;
+}
+.yvan ul li p{
+    font-size: 0.692308rem;
+    text-align: center;
+    margin-top: 0.35rem;
+}
+.yvan img{
+    width: 100%;
+}
+
+
+
+/* 段落 */
+.duanluo{
+    height: 14rem;
+}
+.duanluo p{
+    font-size: 0.615385rem;
+    line-height: 26px;
+    text-indent: 1.25rem;
+    margin-top: 0.6rem;
+}
